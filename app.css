@@ -1,0 +1,13 @@
+#root{
+    color: red;
+}
+#parent
+{
+    color: green;
+}
+#child{
+    color: purple;
+}
+#inner_child{
+    color: blue;
+}
