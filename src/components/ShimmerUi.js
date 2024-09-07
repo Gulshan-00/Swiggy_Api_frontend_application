@@ -1,9 +1,9 @@
-import { Container } from "postcss";
 
-const Shimmer=()=>{
+
+const ShimmerUi=()=>{
 
     return(
-        <div className="shim-container">
+        <div className="shim-container ">
             <div className="shim1"></div>
             <div className="shim1"></div>
             <div className="shim1"></div>
@@ -17,4 +17,4 @@ const Shimmer=()=>{
 
 }
 
-export default Shimmer;
+export default ShimmerUi;

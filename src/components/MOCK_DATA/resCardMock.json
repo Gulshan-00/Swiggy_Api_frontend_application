@@ -1,0 +1,79 @@
+{
+    "info": {
+        "id": "11859",
+        "name": "Makers of Milkshakes",
+        "cloudinaryImageId": "rb3o8qdi1vvosmljjdg7",
+        "locality": "Defence Colony",
+        "areaName": "A.S Rao nagar & Sainikpuri",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+            "Beverages",
+            "Desserts",
+            "Ice Cream"
+        ],
+        "avgRating": 4.5,
+        "veg": true,
+        "parentId": "5632",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "4.5K+",
+        "sla": {
+            "deliveryTime": 36,
+            "lastMileTravel": 2.9,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-40 mins",
+            "lastMileTravelString": "2.9 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-09-06 23:55:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹75 OFF",
+            "subHeader": "ABOVE ₹199",
+            "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-6356b0d7-8d9c-473c-bd0c-92afcae6c7b4"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/hyderabad/makers-of-milkshakes-defence-colony-a-s-rao-nagar-and-sainikpuri-rest11859",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
