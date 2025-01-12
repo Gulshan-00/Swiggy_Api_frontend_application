@@ -21,7 +21,7 @@ const Body = () => {
     try {
       // const data=await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.37240&lng=78.43780&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING");
       const data = await fetch(
-        "https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.4684272&lng=78.53541179999999&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
+        "https://proxy.cors.sh/https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.4684272&lng=78.53541179999999&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
       );
 
       // const data=await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.4717867&lng=78.5316557&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING");
